@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi
 india
+=======
+hello
+>>>>>>> 82dbc7c (c8)
